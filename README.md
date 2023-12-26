@@ -34,7 +34,8 @@ Esta experiencia fortaleció mi comprensión en ciberseguridad y me equipó con 
 
 ## Contacto 📬
 
-¡Estoy abierto a nuevas oportunidades y colaboraciones! Si quieres discutir proyectos emocionantes, LinkedIn: https://www.linkedin.com/in/juanmagart
+¡Estoy abierto a nuevas oportunidades y colaboraciones! Si quieres discutir proyectos emocionantes, <br>
+LinkedIn: https://www.linkedin.com/in/juanmagart
 
 Gracias por visitar mi perfil. ¡Hablemos de código! 🚀
 
