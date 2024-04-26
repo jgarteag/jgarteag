@@ -1,13 +1,18 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/564x/25/30/a4/2530a43009e5e3a9665af3af7a3921d1.jpg"  />
+  <img height="150" src="https://i.pinimg.com/564x/17/df/a9/17dfa916f8e4ca133dbbf0b4fbf76c3c.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/juanmagart/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/@juanmgart">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
 </div>
+
 
 ###
 
@@ -59,9 +64,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmgart92&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=juanmgart92&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/juanmgart92/juanmgart92/output/snake.svg" alt="Snake animation" />
-
-###
