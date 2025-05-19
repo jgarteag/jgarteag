@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Juanma, I'm a Software Engineer...<br><br>🔭I'm currently learning Python, Django, and MongoDB.<br>⚡ In my free time, I love riding my motorcycle, reading books, and learning about many technologies.</p>
+<p align="left">I'm Juanma, - Software Engineer...<br></p>
 
 ###
 
